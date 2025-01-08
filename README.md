@@ -2,6 +2,27 @@
 
 This project implements basic neural networks from scratch that learn through random weight adjustments rather than traditional backpropagation. The networks attempt to learn a simple addition operation.
 
+## Features
+
+- Built from scratch using only NumPy
+- No backpropagation - uses random weight adjustments
+- Colored terminal output showing training progress
+- Error tracking and best weights saving
+- Comprehensive error handling
+- Multiple implementations for learning purposes
+
+## ❤️ Support & Get 400+ AI Projects
+
+This is one of 400+ fascinating projects in my collection! [Support me on Patreon](https://www.patreon.com/c/echohive42/membership) to get:
+
+- 🎯 Access to 400+ AI projects (and growing daily!)
+  - Including advanced projects like [2 Agent Real-time voice template with turn taking](https://www.patreon.com/posts/2-agent-real-you-118330397)
+- 📥 Full source code & detailed explanations
+- 📚 1000x Cursor Course
+- 🎓 Live coding sessions & AMAs
+- 💬 1-on-1 consultations (higher tiers)
+- 🎁 Exclusive discounts on AI tools & platforms (up to $180 value)
+
 ## Overview
 
 The project contains two implementations:
@@ -26,23 +47,4 @@ The project contains two implementations:
   - Ability to test custom input values
   - Progress tracking with reduced output clutter
 
-## Features
 
-- Built from scratch using only NumPy
-- No backpropagation - uses random weight adjustments
-- Colored terminal output showing training progress
-- Error tracking and best weights saving
-- Comprehensive error handling
-- Multiple implementations for learning purposes
-
-## ❤️ Support & Get 400+ AI Projects
-
-This is one of 400+ fascinating projects in my collection! [Support me on Patreon](https://www.patreon.com/c/echohive42/membership) to get:
-
-- 🎯 Access to 400+ AI projects (and growing daily!)
-  - Including advanced projects like [2 Agent Real-time voice template with turn taking](https://www.patreon.com/posts/2-agent-real-you-118330397)
-- 📥 Full source code & detailed explanations
-- 📚 1000x Cursor Course
-- 🎓 Live coding sessions & AMAs
-- 💬 1-on-1 consultations (higher tiers)
-- 🎁 Exclusive discounts on AI tools & platforms (up to $180 value)
