@@ -10,6 +10,7 @@ This project implements basic neural networks from scratch that learn through ra
 - Error tracking and best weights saving
 - Comprehensive error handling
 - Multiple implementations for learning purposes
+- Comparative analysis tools
 
 ## ❤️ Support & Get 400+ AI Projects
 
@@ -25,7 +26,7 @@ This is one of 400+ fascinating projects in my collection! [Support me on Patreo
 
 ## Overview
 
-The project contains two implementations:
+The project contains multiple implementations with increasing complexity:
 
 ### 1. Basic Implementation (1_neural_net_without_backprop.py)
 
@@ -47,4 +48,31 @@ The project contains two implementations:
   - Ability to test custom input values
   - Progress tracking with reduced output clutter
 
+### 3. Multi-Pair Training (3_neural_net_train_and_test_set_of_numbers.py)
 
+- Fixed architecture with 2 neurons
+- Trains on multiple pairs of numbers
+- Maintains consistent network structure
+- Tests generalization across different number pairs
+- Enhanced error tracking and weight management
+
+### 4. Dynamic Growing Network (4_neural_net_set_adds_new_neuron_for_each_pair.py)
+
+- Starts with a single hidden neuron
+- Dynamically adds new neurons after learning each pair
+- Adaptive architecture that grows with training
+- Specialized neurons for different number patterns
+- Advanced weight management for variable network size
+
+### 5. Network Comparison Tool (5_test_3_and_4_compare.py)
+
+- Comprehensive testing framework
+- Compares fixed vs dynamic architectures
+- Measures:
+  - Training speed
+  - Training accuracy
+  - Generalization ability
+  - Convergence time
+  - Overall effectiveness
+- Detailed statistics and performance analysis
+- Validation testing on new number pairs
