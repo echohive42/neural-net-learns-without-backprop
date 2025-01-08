@@ -11,6 +11,7 @@ This project implements basic neural networks from scratch that learn through ra
 - Comprehensive error handling
 - Multiple implementations for learning purposes
 - Comparative analysis tools
+- Side-by-side testing interface
 
 ## ❤️ Support & Get 400+ AI Projects
 
@@ -76,3 +77,15 @@ The project contains multiple implementations with increasing complexity:
   - Overall effectiveness
 - Detailed statistics and performance analysis
 - Validation testing on new number pairs
+
+### 6. Side-by-Side Testing Tool (6_side_by_side_comparison.py)
+
+- Interactive testing interface for both networks
+- Real-time comparison of network outputs
+- Features:
+  - Simultaneous training on same number pairs
+  - Side-by-side output comparison
+  - Error comparison for each test
+  - Visual performance indicators
+  - Easy-to-read colored output
+- Perfect for understanding network behavior differences
